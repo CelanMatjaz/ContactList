@@ -5,7 +5,7 @@ Authentication is handled with JWT tokens.
 
 ## Setup
 
-1. Fill out the example.env with the values for the database/jwt secret/port 
+1. Fill out the `example.env` with the values for the database/jwt secret/port and rename it to `.env`
 2. Install packages in project folder
 3. Run the script `migrate-up` to setup database in project folder
 4. cd into the `client` folder and install packages there
